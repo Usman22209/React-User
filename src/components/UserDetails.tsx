@@ -1,6 +1,6 @@
 import { useParams, Link } from "react-router-dom";
 import { useState, useEffect } from "react";
-import { User } from "../types/user";
+import { User } from "../types/User";
 import {
   User as UserIcon,
   Mail,

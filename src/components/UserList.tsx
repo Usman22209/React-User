@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { User as UserIcon, Mail, AtSign, ExternalLink, Search } from "lucide-react";
-import { User } from "../types/user";
+import { User } from "../types/User";
 import { Link } from "react-router-dom";
 const UserList = () => {
   // State Hooks with Type Annotations
